@@ -1,4 +1,4 @@
-# Probabilistic rating system "What? Where? When?"
+### Reinforcement-learning--blackjack
 
 Данная работа выполнена в качестве домашнего задания по курсу "Продвинутое глубокое обучение и обучение с подкреплением" в академии больших данных MADE.
 
